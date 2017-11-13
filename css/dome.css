@@ -1,0 +1,326 @@
+@media screen and (max-width:1023px) {
+    * {
+        padding: 0;
+        margin: 0;
+    }
+
+    html {
+        font-size: 20px;
+    }
+
+    li {
+        list-style: none;
+    }
+
+    a {
+        text-decoration: none;
+    }
+
+    .clear:after {
+        content: "";
+        clear: both;
+        display: block;
+    }
+
+    .clear {
+        zoom: 1;
+    }
+    .active {
+        color: #f78510;
+    }
+    .none {
+        display: none;
+    }
+    .block {
+        display: block;
+    }
+    .fixed_top {
+        position: fixed;
+        top: 0;
+        left:0;
+    }
+    .box {
+        width:32rem;
+        height: 100%;
+    }
+    .index_img {
+        width: 32rem;
+        height:100vh;
+        position: absolute;
+        z-index: -1;
+    }
+    .index_img li, .bg_img li.show {
+        animation: img_scale 5s forwards;
+    }
+    .index_img li {
+        width: 32rem;
+        height:100vh;
+        display: none;
+        opacity: 0;
+        overflow: hidden;
+    }
+    .index_img li:nth-child(1) {
+        background: url(../img/bg1.jpg) no-repeat center;
+        background-size:cover;
+    }
+    .index_img li:nth-child(2) {
+       background: url(../img/bg2.jpg) no-repeat center;
+        background-size:cover;
+    }
+    .index_img li:nth-child(3) {
+        background: url(../img/bg3.jpg) no-repeat center;
+        background-size:cover;
+    }
+    .index_img li:nth-child(4) {
+        background: url(../img/bg4.jpg) no-repeat center;
+        background-size:cover;
+    }
+ @keyframes img_scale {
+        0% {
+            opacity: 1;
+            transform: scale(1);
+        }
+        50% {
+            opacity: 1;
+            transform: scale(1.1);
+        }
+        100% {
+            opacity: 0.5;
+            transform: scale(1);
+        }
+    }
+    .index_bg {
+        position: relative;
+        width: 32rem;
+        height:100vh;
+        z-index: 0;
+    }
+    .index_text {
+        position: absolute;
+        width: 32rem;
+        opacity: 1;
+    }
+    .index_text h1 {
+        font-weight: normal;
+        margin-top: 25vh;
+        font-size: 2rem;
+        color: #333333;
+        width: 100%;
+        text-align: center;
+    }
+    .index_text h2 {
+        font-weight: normal;
+        font-size: 1.5rem;
+        color: #333333;
+        margin-top: 10vh;
+        text-align: center;
+    }
+    .index_text p {
+        margin: 5vh 0 0 11rem;
+        border: 0.05rem solid #333333;
+        width: 8rem;
+        height: 4vh;
+        font-size: 0.8rem;
+        line-height: 4vh;
+        color: #333333;
+        text-align: center;
+        border-radius: 4px;
+    }
+    .index_text p:hover, .index_text p:active {
+        background: #4f77aa;
+        color: #ffffff;
+    }
+    .menu {
+        z-index:3;
+        width: 32rem;
+        height:8vh;
+        background: #2d3e50;
+    }
+    .menu > a {
+        font-size: 1rem;
+        float: left;
+        line-height: 8vh;
+        margin-left: 1rem;
+        color: #ffffff;
+    }
+    .menu_hide {
+        display: none;
+        float: left;
+        margin-left: 7rem;
+    }
+    .menu_hide li {
+        line-height: 8vh;
+        float: left;
+        margin-left: 0.5rem;
+    }
+    .menu_hide li a {
+        color: #ffffff;
+        font-size: 0.8rem;;
+    }
+    .more_menu li:active, .more_menu li:hover {
+        color: #ee9e4d;
+    }
+    .menu img {
+        display: block;
+        height: 8vh;
+        vertical-align: middle;
+        margin-left: 27rem;
+    }
+    .menu_about h3 {
+        font-size: 1rem;
+        width: 32rem;
+        text-align: center;
+    }
+    .menu_about {
+        width: 32rem;
+        height: 400px;
+        padding-top: 50px;
+    }
+    .menu_about p {
+        margin-left: 3rem;
+        margin-top: 20px;
+        width: 26rem;
+        font-size: 10px;
+        color: #333333;
+    }
+    .menu_about img {
+        width: 80px;
+        height: 150px;
+        margin-top: 50px;
+        margin-left: 13rem;
+    }
+    .more_menu a:hover, .more_menu a:active {
+        color: #ee9e4d;
+    }
+    .more_menu {
+        display: none;
+        position: absolute;
+        width: 32rem;
+        height: 100%;
+    }
+    .more_menu li {
+        width: 32rem;
+        height: 5vh;
+        background: #2d3e50;
+        color: #ffffff;
+        font-size: 0.6rem;
+        text-align: center;
+        line-height: 5vh;
+        border: none;
+    }
+    .pg2 {
+        z-index: 0;
+        position: relative;
+        width:32rem;
+        height:80vh;
+        background: url(../img/pg2_bg.jpg) no-repeat center;
+        background-size: cover;
+    }
+    .pg1{
+        width: 100%;
+    }
+    .page h3 {
+        width: 32rem;
+        font-size: 1rem;
+        color: #333333;
+        text-align: center;
+    }
+    .pg2 h3 {
+        width: 32rem;
+        font-size: 1rem;
+        text-align: center;
+    }
+    .pg2 {
+        padding-top:50px;
+        width: 32rem;
+        height:60vh;
+    }
+    .pg2 li {
+        width: 10rem;
+        height:10rem;
+        float: left;
+        margin: 4vh 0 2vh 4rem;
+    }
+    .pg2 li img {
+        margin-left: 2rem;
+        width: 6rem;
+        height: 6rem;
+        z-index: 0;
+    }
+    .pg2 li h4 {
+        margin-top: 1vh;
+        text-align: center;
+        font-weight: normal;
+        width: 10rem;
+        font-size: 12px;
+        color: #333333;
+    }
+    .pg2 li p {
+        width: 10rem;
+        font-size: 12px;
+        color: #333333;
+    }
+    .pg3{
+        padding-top:2rem;
+        width: 100%;
+    }
+    .pg3 li {
+         width:8rem;
+        height:8rem;
+        float: left;
+        margin: 5vh 0 0 5rem;
+    }
+    .pg3 li P {
+        width:8rem;
+        font-size: 14px;
+        text-align: center;
+    }
+    .pg3 li div{
+        width:8rem;
+       height:8rem;
+    }
+    .pg4{
+        width: 100%;
+        padding-top: 2rem;
+    }
+    .pg4 .work{
+        position: relative;
+        width:12rem;
+        height:12rem;
+        float: left;
+        margin:3rem 0 0 2.5rem;
+        cursor: pointer;
+        transition: all 0.6s;
+    }
+    .meng{
+        width:12rem;
+        height:12rem;
+        position:absolute;
+        background: #000000;
+        opacity:0.6;
+        z-index: 1;
+        display: none;
+    }
+    .work img{
+        position:absolute;
+        width:12rem;
+        height:12rem;
+        z-index:0;
+    }
+    .work:hover{
+        transform: scale(1.1);
+    }
+     .work p{
+        width:12rem;
+        height:100%;
+        font-size:0.5rem;
+        color:rgba(255,255,255,1);
+        position:absolute;
+        top:5vh;
+        text-align:center;
+        z-index:2;
+        display:none;
+    }
+
+}
+

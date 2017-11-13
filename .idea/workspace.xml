@@ -2,7 +2,59 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="10020c95-c258-4daf-a61f-0e12d2cc9b54" name="!changes.default.changelist.name!" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jhvgukvjhg.ts" afterPath="$PROJECT_DIR$/jhvgukvjhg.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/1b.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/DOG.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/PG2_1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/PG2_2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/PG2_3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/PS.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/back.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bg1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bg2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bg3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bg4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/clouds.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/css.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/dome02.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/footer_bingo.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/footer_conect.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/footer_user.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/footer_work.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/friends_inside_li1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/friends_outside_img_.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/friends_top_img1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/friends_top_img2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/friends_topbg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/more.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/page3_bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/password_img.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/personal_a.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/personal_bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/personal_img1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/personal_img2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/personal_li1_bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/personal_li2_bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/personal_li3_bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/personal_li_bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/personal_list_bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/personal_pbg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/pg2_bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/star2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/stars.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/twinkling.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/user_bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/user_img.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/@media_dome.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/dome.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dome.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dome.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery-1.10.1.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery.circliful.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/zoomify.min.js" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\WebstormProjects\about_me\fjgfty.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\WebstormProjects\about_me\jhvgukvjhg.ts" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="about_me.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -25,24 +77,42 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="fjgfty.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/fjgfty.js">
+      <file leaf-file-name="dome.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dome.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="189">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state vertical-scroll-proportion="-90.666664" vertical-offset="948" max-vertical-offset="4428">
+              <caret line="156" column="0" selection-start-line="156" selection-start-column="0" selection-end-line="156" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="jhvgukvjhg.ts" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/jhvgukvjhg.ts">
+      <file leaf-file-name="dome.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/js/dome.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.04812834" vertical-offset="0" max-vertical-offset="561">
-              <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
-              <folding>
-                <element signature="e#0#50#0" expanded="false" />
-              </folding>
+            <state vertical-scroll-proportion="0.57793343" vertical-offset="2397" max-vertical-offset="2970">
+              <caret line="101" column="0" selection-start-line="101" selection-start-column="0" selection-end-line="101" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="@media_dome.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/@media_dome.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="5867" max-vertical-offset="8667">
+              <caret line="247" column="7" selection-start-line="247" selection-start-column="7" selection-end-line="247" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="dome.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/dome.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="6893" max-vertical-offset="8964">
+              <caret line="323" column="0" selection-start-line="323" selection-start-column="0" selection-end-line="323" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -62,6 +132,10 @@
       <list>
         <option value="$PROJECT_DIR$/fjgfty.js" />
         <option value="$PROJECT_DIR$/jhvgukvjhg.ts" />
+        <option value="$PROJECT_DIR$/dome.html" />
+        <option value="$PROJECT_DIR$/css/dome.css" />
+        <option value="$PROJECT_DIR$/css/@media_dome.css" />
+        <option value="$PROJECT_DIR$/js/dome.js" />
       </list>
     </option>
   </component>
@@ -103,7 +177,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -122,12 +195,66 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="about_me" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="about_me" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="about_me" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="about_me" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="img" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="about_me" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="about_me" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="C:/Program Files/Apache Software Foundation/Tomcat 6.0/webapps/chcit-oa" />
+    <property name="FullScreen" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\WebstormProjects\about_me" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\WebstormProjects\about_me\css" />
+      <recent name="C:\Users\Administrator\WebstormProjects\about_me\js" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
@@ -174,6 +301,9 @@
     <list size="0" />
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="10020c95-c258-4daf-a61f-0e12d2cc9b54" name="!changes.default.changelist.name!" comment="" />
@@ -184,18 +314,18 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="变化" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="变化" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24981412" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -225,21 +355,98 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/fjgfty.js">
+    <entry file="file://$PROJECT_DIR$/dome.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="586">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4401">
+          <caret line="43" column="26" selection-start-line="43" selection-start-column="26" selection-end-line="43" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/dome.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="648" max-vertical-offset="3186">
+          <caret line="28" column="57" selection-start-line="28" selection-start-column="57" selection-end-line="28" selection-end-column="57" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/bg1.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/@media_dome.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="8991">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/jhvgukvjhg.ts">
+    <entry file="file://$PROJECT_DIR$/css/dome.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.04812834" vertical-offset="0" max-vertical-offset="561">
-          <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
-          <folding>
-            <element signature="e#0#50#0" expanded="false" />
-          </folding>
+        <state vertical-scroll-proportion="0.0" vertical-offset="1863" max-vertical-offset="9828">
+          <caret line="77" column="0" selection-start-line="77" selection-start-column="0" selection-end-line="77" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/jquery-1.10.1.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="571">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/zoomify.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="571">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/jquery.circliful.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="571">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/bg1.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dome.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-90.666664" vertical-offset="948" max-vertical-offset="4428">
+          <caret line="156" column="0" selection-start-line="156" selection-start-column="0" selection-end-line="156" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/dome.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="6893" max-vertical-offset="8964">
+          <caret line="323" column="0" selection-start-line="323" selection-start-column="0" selection-end-line="323" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/@media_dome.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="5867" max-vertical-offset="8667">
+          <caret line="247" column="7" selection-start-line="247" selection-start-column="7" selection-end-line="247" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/dome.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.57793343" vertical-offset="2397" max-vertical-offset="2970">
+          <caret line="101" column="0" selection-start-line="101" selection-start-column="0" selection-end-line="101" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>

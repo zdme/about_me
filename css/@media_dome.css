@@ -1,0 +1,315 @@
+@media screen and (min-width:1024px){
+*{
+    padding:0;
+    margin:0;
+}
+html{
+    font-size: 20px;
+}
+li{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
+.clear:after{
+    content: "";
+    clear:both;
+    display: block;
+}
+.clear{
+    zoom:1;
+}
+.active{
+    color:#f78510;
+}
+.none{
+    display: none;
+}
+.block{
+    display: block;
+}
+.fixed_top{
+    position: fixed;
+    top:0;
+}
+    .box{
+        width:32rem;
+        height:100%;
+    }
+    .index_img{
+        width:32rem;
+        height:100;
+        position:absolute;
+        top: 0;
+        left: 0;
+        z-index: -1;
+    }
+    .index_img li,.bg_img li.show{
+        animation: img_scale 5s forwards;
+    }
+    .index_img li{
+        position:absolute;
+        top:0;
+        left:0;
+        width:32rem;
+        height:100vh;
+        display:none;
+        opacity:0;
+        overflow: hidden;
+    }
+    .index_img li:nth-child(1){
+        background:url(../img/bg1.jpg)no-repeat center ;
+        background-size:cover;
+    }
+    .index_img li:nth-child(2){
+        background:url(../img/bg2.jpg)no-repeat center ;
+        background-size:cover;
+    }
+    .index_img li:nth-child(3){
+        background:url(../img/bg3.jpg)no-repeat center ;
+        background-size:cover;
+    }
+    .index_img li:nth-child(4){
+        background:url(../img/bg4.jpg)no-repeat center ;
+        background-size:cover;
+    }
+    @keyframes img_scale{
+        0%{
+            opacity:1;
+            transform:scale(1);
+        }
+        50%{
+            opacity:1;
+            transform:scale(1.1);
+        }
+        100%{
+            opacity:0.5;
+            transform:scale(1);
+        }
+    }
+    .index_bg{
+        position:relative;
+        width:32rem;
+        height:100vh;
+        z-index:0;
+    }
+    .index_text{
+        padding-top:20vh;
+        width:32rem;
+         opacity:1;
+    }
+    .index_text h1{
+        font-weight: normal;
+        font-size:1rem;
+        color:#333333;
+        width:32rem;
+        text-align:center;
+    }
+    .index_text h2{
+        font-weight:normal;
+        font-size:0.8rem;
+        color:#333333;
+        margin-top:5vh;
+        text-align:center;
+    }
+    .index_text p{
+        margin-top:12vh;
+        width:4rem;
+        height:1rem;
+        border:0.02rem solid #343434;
+        border-radius:0.1rem;
+        font-size:0.5rem;
+        color:#333333;
+        float:left;
+        line-height:1rem;
+        text-align:center;
+       }
+    .index_text p:nth-child(3){
+            margin-left:11rem;
+        }
+    .index_text p:nth-child(4){
+            margin-left:1rem;
+        }
+    .index_text p:hover,.index_text p:active{
+        background:#4f77aa;
+        color:#ffffff;
+    }
+    .menu{
+         z-index:3;
+        width:32rem;
+        height:13vh;
+        background:#2d3e50;
+    }
+    .menu > a{
+        font-size:24px;
+        float:left;
+        line-height:13vh;
+        margin-left:2rem;
+        color:#ffffff;
+    }
+    .menu_hide{
+        display: block;
+        float:left;
+        margin-left:10rem;
+    }
+     .menu_hide li{
+        float:left;
+        margin-left:1rem;
+    }
+    .menu_hide li a{
+        line-height: 13vh;
+        color:#ffffff;
+        font-size:18px;
+    }
+    .menu_hide li a:active,.menu_hide li a:hover{
+        color:#f78510;
+    }
+    .menu img{
+        display: none;
+        margin-top:3vh;
+        margin-left:27rem;
+    }
+
+    .more_menu{
+        display: none;
+    }
+    .menu_about{
+        width:32rem;
+        height:600px;
+        padding-top:2rem;
+    }
+     .menu_about h3{
+         font-weight:normal;
+         font-size:0.8rem;
+         width: 32rem;
+         text-align: center;
+           }
+    .menu_about p{
+        margin-top:7.33vh;
+        margin-left:6rem;
+        width:20rem;
+        font-size:18px;
+        color:#333333;
+    }
+    .menu_about img{
+        width:180px;
+        height:260px;
+        margin-top:8.25vh;
+        margin-left:14rem;
+    }
+    .pg2{
+        padding-top:50px ;
+        width:32rem;
+        height:600px;
+        background:url(../img/pg2_bg.jpg)no-repeat center ;
+        background-size:cover;
+    }
+    .pag1{
+        width:32rem;
+
+    }
+    .page h3{
+        font-weight:normal;
+        width:32rem;
+        font-size:0.8rem;
+        color:#333333;
+        text-align:center;
+    }
+    .pg2 h3{
+        font-weight: normal;
+        width:32rem;
+        text-align: center;
+        font-size: 0.8rem;
+           }
+    .pg2 li{
+        text-align: center;
+        width:5rem;
+        height:5rem ;
+        float:left;
+        margin:2rem 0 0 2.1rem;
+    }
+    .pg2 li img{
+        margin: 1rem;
+        width:3rem;
+        height:3rem;
+    }
+    .pg2 li h4{
+        font-weight:normal;
+        width:5rem;
+        font-size:18px;
+        color:#333333;
+    }
+    .pg2 li p{
+        width: 5rem;
+        font-size:18px;
+        color:#333333;
+       }
+    .pg3{
+           width: 100%;
+           padding-top: 2rem;
+       }
+    .pg3 li{
+        width: 5rem;
+        height: 6rem;
+        float: left;
+        margin:2rem 0 0 2rem;
+    }
+
+    .pg3 li P{
+        width:5rem;
+        text-align:center;
+        font-size:18px;
+        }
+    .ability div{
+         width:5rem;
+         height:5rem;
+     }
+    .pg4{
+        width: 100%;
+        padding-top: 2rem;
+    }
+    .pg4 .work{
+        position: relative;
+        width:6rem;
+        height:6rem;
+        float: left;
+        margin:3rem 0 0 1.5rem;
+    }
+
+    .pg4 .meng{
+        width:6rem;
+        height:6rem;
+        position:absolute;
+        background: #000000;
+        opacity:0.6;
+        z-index: 1;
+        display: none;
+    }
+    .pg4 .work img{
+        position:absolute;
+        width:6rem;
+        height:6rem;
+        z-index:0;
+    }
+    .work{
+        cursor: pointer;
+        transition: all 0.6s;
+    }
+    .work:hover{
+        transform: scale(1.1);
+    }
+    .work p{
+        width:6rem;
+        height:100%;
+        font-size:0.5rem;
+        color:#ffffff;
+        position:absolute;
+        top:15vh;
+        text-align:center;
+        z-index:2;
+        display:none;
+    }
+
+
+}
